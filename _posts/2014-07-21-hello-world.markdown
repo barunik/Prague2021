@@ -1,10 +1,14 @@
 ---
 layout: post
 title:  "About the conference"
-date:   2019-03-19 08:00:00
+date:   2020-02-18 08:00:00
 isStaticPost: false
 ---
 
-The Czech Academy of Sciences will host the STAT OF ML (Statistics of Machine Learning) conference from September 30 to October 1, 2019 in Prague, Czech Republic. The pre-conference for young PhD students will take place on September 30, 2019.
+Based on the success of [STAT OF ML 2019](https://barunik.github.io/Prague2019/) and [STAT OF ML 2020](https://barunik.github.io/Prague2020/) conferences, the Czech Academy of Sciences will host the STAT OF ML (Statistics of Machine Learning) 2021 conference from October 7 to October 8, 2021 in Prague, Czech Republic. The pre-conference for young PhD students will take place on October 7, 2021.
 
-Selected papers will be considered for publication in the [Digital Finance](https://www.springer.com/finance/journal/42521){:target="blank"} journal. The prize for the best prezentation of a PhD student will be announced.
+Selected papers will be considered for publication in the ![Digital Finance](https://media.springernature.com/w184/springer-static/cover/journal/42521.jpg)
+
+[Digital Finance](https://www.springer.com/finance/journal/42521){:target="blank"} journal.
+
+The prize for the best prezentation of a PhD student will be announced.
