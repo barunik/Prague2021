@@ -1,0 +1,206 @@
+-
+  date: "2019-09-30"
+  dateReadable: "September 30 (Monday)"
+  tracks:
+    - {title: "Pre-conference (presentation of PhD students)", color: "#be4e4e"}
+  timeslots:
+    - {
+      	startTime: "9:05",
+      	endTime: "9:10",
+      	sessionIds: [901]
+    }
+    - {
+    	startTime: "9:10",
+    	endTime: "9:30",
+    	sessionIds: [030]
+    }
+    - {
+    	startTime: "9:30",
+    	endTime: "9:50",
+    	sessionIds: [034]
+    }
+    - {
+    	startTime: "9:50",
+    	endTime: "10:10",
+    	sessionIds: [041]
+    }
+    - {
+    	startTime: "10:10",
+    	endTime: "10:30",
+    	sessionIds: [032]
+    }
+    - {
+    	startTime: "10:30",
+    	endTime: "10:50",
+    	sessionIds: [033]
+    }
+
+    - {
+    	startTime: "10:50",
+    	endTime: "11:10",
+    	sessionIds: [101]
+    }
+    - {
+    	startTime: "11:10",
+    	endTime: "11:30",
+    	sessionIds: [035]
+    }
+    - {
+    	startTime: "11:30",
+    	endTime: "11:50",
+    	sessionIds: [031]
+    }
+    - {
+    	startTime: "11:50",
+    	endTime: "12:10",
+    	sessionIds: [036]
+    }
+    - {
+    	startTime: "12:10",
+    	endTime: "12:30",
+    	sessionIds: [039]
+    }
+    - {
+    	startTime: "12:30",
+    	endTime: "12:50",
+    	sessionIds: [038]
+    }
+
+
+
+
+
+
+    - {
+       startTime: "12:50",
+       endTime: "13:45",
+       sessionIds: [102]
+    }
+-
+  tracks:
+    - {title: "Sessions I", color: "#be4e4e"}
+  timeslots:
+    - {
+      	startTime: "13:45",
+      	endTime: "14:30",
+      	sessionIds: [100]
+    }
+    - {
+      	startTime: "14:30",
+      	endTime: "15:15",
+      	sessionIds: [001]
+    }
+    - {
+      	startTime: "15:15",
+      	endTime: "15:30",
+      	sessionIds: [101]
+    }
+    - {
+      	startTime: "15:30",
+      	endTime: "16:00",
+      	sessionIds: [008]
+    }
+    - {
+      	startTime: "16:00",
+      	endTime: "16:30",
+      	sessionIds: [002]
+    }
+    - {
+      	startTime: "16:30",
+      	endTime: "17:00",
+      	sessionIds: [028]
+    }
+    - {
+      	startTime: "18:30",
+        endTime: "22:00",
+      	sessionIds: [103]
+    }
+
+-
+  date: "2019-10-01"
+  dateReadable: "October 1 (Tuesday)"
+  tracks:
+    - {title: "Session II", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "9:30",
+    	sessionIds: [004]
+    }
+    - {
+    	startTime: "9:30",
+    	endTime: "10:00",
+    	sessionIds: [010]
+    }
+    - {
+    	startTime: "10:00",
+    	endTime: "10:30",
+    	sessionIds: [007]
+    }
+    - {
+      	startTime: "10:30",
+      	endTime: "10:50",
+      	sessionIds: [101]
+    }
+    - {
+    	startTime: "10:50",
+    	endTime: "11:20",
+    	sessionIds: [011]
+    }
+    - {
+    	startTime: "11:20",
+    	endTime: "11:50",
+    	sessionIds: [003]
+    }
+    - {
+    	startTime: "11:50",
+    	endTime: "12:20",
+    	sessionIds: [037]
+    }
+
+    - {
+       startTime: "12:20",
+       endTime: "13:15",
+       sessionIds: [102]
+    }
+
+    - {
+    	startTime: "13:15",
+    	endTime: "13:45",
+    	sessionIds: [005]
+    }
+    - {
+    	startTime: "13:45",
+    	endTime: "14:15",
+    	sessionIds: [029]
+    }
+    - {
+    	startTime: "14:15",
+    	endTime: "14:45",
+    	sessionIds: [040]
+    }
+    - {
+      	startTime: "14:45",
+      	endTime: "15:00",
+      	sessionIds: [101]
+    }
+    - {
+    	startTime: "15:00",
+    	endTime: "15:30",
+    	sessionIds: [012]
+    }
+    - {
+    	startTime: "15:30",
+    	endTime: "16:00",
+    	sessionIds: [009]
+    }
+    - {
+      	startTime: "16:00",
+      	endTime: "16:20",
+      	sessionIds: [042]
+      }
+
+    - {
+    	startTime: "16:20",
+    	sessionIds: [902]
+    }
