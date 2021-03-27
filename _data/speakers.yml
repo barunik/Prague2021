@@ -49,3 +49,15 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/drmeco"}
+
+-
+  id: 5
+  name: "Cathy"
+  surname: "Yi-Hsuan Chen"
+  company: "Adam Smith Business School, University of Glasgow"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: cathy.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/drmeco"}

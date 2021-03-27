@@ -36,6 +36,15 @@
   speakers: [4]
   language: en
 
+-
+  id: 005
+  title: "Coins with benefits: on existence, pricing kernel and risk premium of cryptocurrencies"
+  description: "Authors: Cathy Yi-Hsuan Chen and Dmitri Vinogradov<br/>
+  <p>Abstract:  Cryptocurrencies come with benefits, such as anonymity of payments, and trans- action risks, such as unconfirmed transfers, hacks, and frauds. They compete with central-bank-regulated currencies as a means of payment but this competition is not perfect: consumers are not indifferent with respect to the currency to be used in transactions. We consider an arbitrage-free world in which consumers derive utility both from consumption and from the benefits offered by the type of the cur- rency: for example, preserving anonymity may increase the utility of consumption, while a fraud would decrease it. Distinct stochastic processes governing benefits of the two currencies generate incomplete markets with crypto- and central bank currencies operating under distinct pricing kernels. We characterise, both theoreti- cally and empirically, the bitcoin kernel and its relationship with the pricing kernel in the centralized market. Using the fundamental pricing relationship, we suggest a method to empirically evaluate the otherwise unobservable benefits, and show their contribution to the pricing kernel is well proxied by the flow of coins over the cryptocurrency network. The model explains both the co-existence of digital and centralized currencies and the risk and return patterns in the cryptocurrency world.</p>"
+  subtype: Presentation
+  speakers: [5]
+  language: en
+
 
 
 ###### The rest
