@@ -60,4 +60,16 @@
   thumbnailUrl: cathy.jpg
   rockstar: false
   social:
-    - {name: "homepage", link: "https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/drmeco"}
+    - {name: "homepage", link: "https://www.gla.ac.uk/schools/business/staff/cathyyi-hsuanchen//"}
+
+-
+  id: 6
+  name: "Florentina"
+  surname: "Paraschiv"
+  company: "Norwegian University of Science and Technology"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: paraschiv.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.ntnu.edu/employees/florentina.paraschiv"}
