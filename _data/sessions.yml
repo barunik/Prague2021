@@ -62,7 +62,7 @@
 
 -
   id: 010
-  title: "Deep Reinforcement Learning for Dynamic Decision Makingin Economics"
+  title: "Deep Reinforcement Learning for Dynamic Decision Making in Economics"
   description: "Authors: Jozef Barunik, Lukas Vacha<br/>
   <p>Abstract:  TBA </p>"
   subtype: Presentation
@@ -76,6 +76,15 @@
   <p>Abstract:  TBA </p>"
   subtype: Presentation
   speakers: [11]
+  language: en
+
+-
+  id: 012
+  title: "TBA"
+  description: "Authors: Jens Perch Nielsen<br/>
+  <p>Abstract:  TBA </p>"
+  subtype: Presentation
+  speakers: [12]
   language: en
 
 -

@@ -99,6 +99,19 @@
     - {name: "homepage", link: "https://ies.fsv.cuni.cz/en/staff/fcech"}
 
 -
+  id: 12
+  name: "Jens Perch"
+  surname: "Nielsen"
+  company: " Cass Business School"
+  title: "Professor"
+  bio: '<p>Actuary from Copenhagen and statistician from UC-Berkeley. Worked as appointed actuary in his young days and led various product development departments before specialising in research and development. He became research director of RSA with responsibilities in life as well as non-life in 1999. From 2006 until 2012 he worked as an entreprenuer and he is still co-owner and board member of Copenhagen based ScienceFirst, London based Operational Science and Cyprus based Emergent. He is co-author of more than 100 scientific papers in reviewed journals of actuarial science, economics, econometrics and statistics and also one book on quantitative operational risk modelling and associate editor of a number of journals.</p>'
+  thumbnailUrl: nielsen.jpg
+  rockstar: false
+  social:
+    - {name: "github", link: "https://www.cass.city.ac.uk/faculties-and-research/experts/jens-perch"}
+
+
+-
   id: 20
   name: "Kainat"
   surname: "Khowaja"
