@@ -177,6 +177,16 @@
   speakers: [29]
   language: en
 
+
+-
+  id: 030
+  title: "A Data-driven Explainable Case-based Reasoning for Bankruptcy Prediction"
+  description: "Authors: Wei Li<br/>
+  <p>Abstract:   TBA </p>"
+  subtype: Presentation
+  speakers: [30]
+  language: en
+
 ###### The rest
 
 

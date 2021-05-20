@@ -228,3 +228,15 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://ies.fsv.cuni.cz/en/staff/nechvatalova"}
+
+-
+  id: 30
+  name: "Wei"
+  surname: "Li"
+  company: "Norwegian University of Science and Technology"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: weili.png
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.ntnu.edu/employees/wei.n.li"}
