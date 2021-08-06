@@ -196,6 +196,24 @@
     speakers: [31]
     language: en
 
+-
+    id: 032
+    title: "Halfspace depth for general measures"
+    description: "Authors:  Petra Laketa, Stanislav Nagy and Dusan Pokorny<br/>
+    <p>Abstract: Let $R^d$ be the $d$-dimensional Euclidean space and $mu$ a finite Borel measure on $R^d$.
+    A halfspace depth of a given point $x$ with respect to $mu$ is defined as the infimum of $mu$-masses of
+    all the closed halfspaces that contain $x$. As such, it measures the centrality of $x$ with respect to $mu$
+    and is used as a multivariate quantile. The notion of the halfspace depth found also application in machine
+    learning. The existing literature on this interesting topic usually imposes restrictive assumptions on
+    measure $mu$. We consider halfspace depth in general setting, for all finite Borel measures, with intention
+    to collect partial results from the literature and give more general theoretical results. We specially focus
+    on 1) when and how is it possible to reconstruct the underlying measure based on its halfspace depth function
+    and 2) extending the so-called ray basis theorem, which gives an interesting characterization of the point
+    with the maximal halfspace depth, called the halfspace median. </p>"
+    subtype: Presentation
+    speakers: [32]
+    language: en
+
 ###### The rest
 
 

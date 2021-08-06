@@ -252,3 +252,13 @@
   rockstar: false
   social:
     - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/min-bin-lin"}
+
+-
+  id: 32
+  name: "Petra"
+  surname: "Laketa"
+  company: "Charles University"
+  title: "PhD student"
+  bio: '<p></p>'
+  thumbnailUrl: x.jpg
+  rockstar: false
