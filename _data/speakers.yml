@@ -75,6 +75,18 @@
     - {name: "homepage", link: "https://www.ntnu.edu/employees/florentina.paraschiv"}
 
 -
+  id: 7
+  name: "Christian"
+  surname: "Brownlees"
+  company: "Universitat Pompeu Fabra"
+  title: "Professor"
+  bio: '<p></p>'
+  thumbnailUrl: brownlees.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "econ.upf.edu/~cbrownlees"}
+
+-
   id: 10
   name: "Lukas"
   surname: "Vacha"

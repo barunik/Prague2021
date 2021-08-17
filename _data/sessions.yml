@@ -61,6 +61,14 @@
   language: en
 
 -
+  id: 007
+  title: "TBA"
+  description: "Authors: Christian Brownlees<br/>
+  <p>Abstract:  </p>"
+  subtype: Presentation
+  speakers: [7]
+  language: en
+-
   id: 010
   title: "Deep Reinforcement Learning for Dynamic Decision Making in Economics"
   description: "Authors: Jozef Barunik, Lukas Vacha<br/>
