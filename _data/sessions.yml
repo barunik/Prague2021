@@ -222,6 +222,15 @@
     speakers: [32]
     language: en
 
+-
+    id: 033
+    title: "Compressed time series text regression"
+    description: "Authors:  Daniel Mittendorf<br/>
+    <p>Abstract: We propose a procedure to model the time-varying relationship between a univariate response and a high-dimensional predictor set derived from textual data. In such settings, standard shrinkage approaches such as lasso can encounter computational and numerical issues. While text-specific regression approaches such as multinomial inverse regression and hurdle regression have been developed, these methods allow for neither time-varying parameters nor heteroskedasticity. Our proposed method first performs several random projections of the predictor matrix to a much lower-dimensional linear subspace. For each of these compressed predictor sets, a time-varying parameter state space model is estimated using fast Kalman filter recursions, allowing for heteroskedasticity in the response. These models' predictions are then averaged dynamically using Bayesian posterior model probabilities. The resulting procedure remains stable with hundreds of thousands of predictors and is trivially parallelisable. Intuitive variable importance measures can be computed naturally with little additional computational cost. </p>"
+    subtype: Presentation
+    speakers: [33]
+    language: en
+
 ###### The rest
 
 

@@ -274,3 +274,15 @@
   bio: '<p></p>'
   thumbnailUrl: laketa.jpg
   rockstar: false
+
+-
+  id: 33
+  name: "Daniel"
+  surname: "Mittendorf"
+  company: "Adam Smith Business School, University of Glasgow"
+  title: "PhD student"
+  bio: '<p> </p>'
+  #thumbnailUrl: minbinlin.png
+  rockstar: false
+  #social:
+  #  - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/min-bin-lin"}
