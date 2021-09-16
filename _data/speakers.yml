@@ -159,15 +159,15 @@
   social:
     - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/julian-winkel/Julian%20Winkel"}
 
--
-  id: 23
-  name: "Raphael"
-  surname: "C. G. Reule"
-  company: "Humboldt-Universität zu Berlin"
-  title: "PhD student"
-  bio: '<p> </p>'
-  thumbnailUrl: reule.jpg
-  rockstar: false
+#-
+#  id: 23
+#  name: "Raphael"
+#  surname: "C. G. Reule"
+#  company: "Humboldt-Universität zu Berlin"
+#  title: "PhD student"
+#  bio: '<p> </p>'
+#  thumbnailUrl: reule.jpg
+#  rockstar: false
 
 -
   id: 24

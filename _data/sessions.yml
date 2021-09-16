@@ -122,14 +122,14 @@
   speakers: [22]
   language: en
 
--
-  id: 023
-  title: "Blockchain to Ethereum to NFT: The Creation Story Some Never Wanted"
-  description: "Authors: Raphael C. G. Reule<br/>
-  <p>Abstract:  </p>"
-  subtype: Presentation
-  speakers: [23]
-  language: en
+#-
+#  id: 023
+#  title: "Blockchain to Ethereum to NFT: The Creation Story Some Never Wanted"
+#  description: "Authors: Raphael C. G. Reule<br/>
+#  <p>Abstract:  </p>"
+#  subtype: Presentation
+#  speakers: [23]
+#  language: en
 
 -
   id: 024
