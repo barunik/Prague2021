@@ -122,6 +122,17 @@
   social:
     - {name: "github", link: "https://www.cass.city.ac.uk/faculties-and-research/experts/jens-perch"}
 
+-
+  id: 13
+  name: "Arild Brandrud"
+  surname: "Næss"
+  company: "NTNU Business School"
+  title: "Associate professor of statistics"
+  thumbnailUrl: arild.jpg
+  rockstar: false
+  social:
+    - {name: "github", link: "https://www.ntnu.edu/employees/arild.naess"}
+
 
 -
   id: 20
