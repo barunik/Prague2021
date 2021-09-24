@@ -10,9 +10,9 @@
 
 -
   id: 002
-  title: "Deep Learning, Predictability, and Optimal Portfolio Returns"
-  description: "Authors: Mykola Babiak and Jozef Barunik<br/>
-  <p>Abstract: We study dynamic portfolio choice of a long-horizon investor who uses deep learning methods to predict equity returns when forming optimal portfolios. Our results show statistically and economically significant benefits from using deep learning to form optimal portfolios through certainty equivalent returns and Sharpe ratios. Return predictability via deep learning also generates substantially improved portfolio performance across different subsamples, particularly during recessionary periods. These gains are robust to including transaction costs, short-selling and borrowing constraints.</p>"
+  title: "Dynamic Density Forecasting Using Machine Learning"
+  description: "Authors: Lubos Hanus and Jozef Barunik<br/>
+  <p>Abstract:  The use of machine learning techniques is proposed to describe and forecast the conditional probability distribution of asset returns. We redefine the problem of forecasting of conditional probabilities looking from a different perspective than traditional ordered binary choice models. Using deep learning methods, we offer a better description of asset returns distribution. The study on the most liquid U.S. stocks shows that predictive performance of machine learning methods is promising out-of-sample. We provide a comparison of machine learning methods to the unordered and order binary choice models used by the literature.</p>"
   subtype: Presentation
   speakers: [2]
   language: en
@@ -179,14 +179,14 @@ implied volatility functions.  </p>"
   speakers: [24]
   language: en
 
--
-  id: 025
-  title: "Dynamic Density Forecasting Using Machine Learning"
-  description: "Authors: Lubos Hanus and Jozef Barunik<br/>
-  <p>Abstract:  The use of machine learning techniques is proposed to describe and forecast the conditional probability distribution of asset returns. We redefine the problem of forecasting of conditional probabilities looking from a different perspective than traditional ordered binary choice models. Using deep learning methods, we offer a better description of asset returns distribution. The study on the most liquid U.S. stocks shows that predictive performance of machine learning methods is promising out-of-sample. We provide a comparison of machine learning methods to the unordered and order binary choice models used by the literature.</p>"
-  subtype: Presentation
-  speakers: [25]
-  language: en
+#-
+#  id: 025
+#  title: "Dynamic Density Forecasting Using Machine Learning"
+#  description: "Authors: Lubos Hanus and Jozef Barunik<br/>
+#  <p>Abstract:  The use of machine learning techniques is proposed to describe and forecast the conditional probability distribution of asset returns. We redefine the problem of forecasting of conditional probabilities looking from a different perspective than traditional ordered binary choice models. Using deep learning methods, we offer a better description of asset returns distribution. The study on the most liquid U.S. stocks shows that predictive performance of machine learning methods is promising out-of-sample. We provide a comparison of machine learning methods to the unordered and order binary choice models used by the literature.</p>"
+#  subtype: Presentation
+#  speakers: [25]
+#  language: en
 
 -
   id: 026
