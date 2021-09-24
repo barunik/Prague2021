@@ -20,7 +20,7 @@
 
 -
   id: 003
-  title: "TBA"
+  title: "Portfolio optimization using distortion risk measures via linear programming"
   description: "Authors: Milos Kopa<br/>
   <p>Abstract:  TBA </p>"
   subtype: Presentation
@@ -68,6 +68,16 @@
   subtype: Presentation
   speakers: [7]
   language: en
+
+-
+  id: 008
+  title: "Recursive multivariate volatility forecasts for large portfolios"
+  description: "Authors: Cipra, T., Hendrych, R.<br/>
+  <p>Abstract:  TBA</p>"
+  subtype: Presentation
+  speakers: [8]
+  language: en
+
 -
   id: 010
   title: "Deep Reinforcement Learning for Dynamic Decision Making in Economics"
@@ -103,6 +113,26 @@
   subtype: Presentation
   speakers: [13]
   language: en
+
+-
+  id: 014
+  title: "Implied volatility smoothing at COVID-19 times"
+  description: "Authors: Sebastiano Vitali<br/>
+  <p>Abstract:  This work aims at studying the impact of the SARS-CoV-2 pandemic on the
+global financial markets. In particular, such impact is analysed through
+the changes of the shape of the implied volatility smile of the options
+written on several equity indexes and on several stocks. The implied
+volatility function is estimated using the market-based information of
+liquid options and applying a semi-parametric smoothing technique that
+exploits a kernel function and no-arbitrage conditions. Such approach is
+applied to an extensive set of data to study the evolution of the
+implied volatility functions through the months of the pandemic. We
+show, in several cases, a sudden and massive change in the shape of the
+implied volatility functions.  </p>"
+  subtype: Presentation
+  speakers: [14]
+  language: en
+
 
 -
   id: 020

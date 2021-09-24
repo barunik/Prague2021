@@ -87,6 +87,18 @@
     - {name: "homepage", link: "econ.upf.edu/~cbrownlees"}
 
 -
+  id: 8
+  name: "Tomáš"
+  surname: "Cipra"
+  company: "Charles University"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: cipra.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www2.karlin.mff.cuni.cz/~cipra/"}
+    
+-
   id: 10
   name: "Lukas"
   surname: "Vacha"
@@ -132,6 +144,18 @@
   rockstar: false
   social:
     - {name: "github", link: "https://www.ntnu.edu/employees/arild.naess"}
+
+-
+  id: 14
+  name: "Sebastiano"
+  surname: "Vitali"
+  company: "Charles University"
+  title: "Assitant Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: sebastiano.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www2.karlin.mff.cuni.cz/~vitali/"}
 
 
 -
