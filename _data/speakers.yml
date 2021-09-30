@@ -99,16 +99,41 @@
     - {name: "homepage", link: "https://www2.karlin.mff.cuni.cz/~cipra/"}
 
 -
-  id: 10
-  name: "Lukas"
-  surname: "Vacha"
-  company: "Academy of Sciences and Charles University"
-  title: "Senior Researcher"
+  id: 9
+  name: "Zuzana"
+  surname: "Prášková"
+  company: "Charles University"
+  title: "Professor"
   bio: '<p> </p>'
-  thumbnailUrl: vacha.jpg
+  thumbnailUrl: praskova.jpg
+  rockstar: false
+  #social:
+#    - {name: "homepage", link: "http://artax.karlin.mff.cuni.cz/~branm1am/indexEN.html"}
+
+-
+  id: 10
+  name: "Martin"
+  surname: "Branda"
+  company: "Charles University"
+  title: "Assistant Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: branda.jpg
   rockstar: false
   social:
-    - {name: "homepage", link: "https://www.utia.cas.cz/people/vacha"}
+    - {name: "homepage", link: "http://artax.karlin.mff.cuni.cz/~branm1am/indexEN.html"}
+
+
+#-
+#  id: 10
+#  name: "Lukas"
+#  surname: "Vacha"
+#  company: "Academy of Sciences and Charles University"
+#  title: "Senior Researcher"
+#  bio: '<p> </p>'
+#  thumbnailUrl: vacha.jpg
+#  rockstar: false
+#  social:
+#    - {name: "homepage", link: "https://www.utia.cas.cz/people/vacha"}
 
 -
   id: 11
@@ -321,3 +346,27 @@
   rockstar: false
   #social:
   #  - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/min-bin-lin"}
+
+-
+  id: 34
+  name: "Karel"
+  surname: "Kozmik"
+  company: "Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: kozmikkarel.jpg
+  rockstar: false
+  #social:
+  # - {name: "homepage", link: "http://karlin.mff.cuni.cz/~rusy/"}
+
+-
+  id: 35
+  name: "Petr"
+  surname: "Vejmelka"
+  company: "Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  #thumbnailUrl: kozmikkarel.jpg
+  rockstar: false
+  #social:
+  # - {name: "homepage", link: "http://karlin.mff.cuni.cz/~rusy/"}

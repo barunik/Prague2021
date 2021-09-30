@@ -38,15 +38,9 @@
 
 -
   id: 005
-  title: "Coins with benefits: on existence, pricing kernel and risk premium of cryptocurrencies"
-  description: "Authors: Cathy Yi-Hsuan Chen and Dmitri Vinogradov<br/>
-  <p>Abstract:  Cryptocurrencies come with benefits, such as anonymity of payments, and transaction risks, such as unconfirmed transfers, hacks, and frauds.
-  They compete with central-bank-regulated currencies as a means of payment but this competition is not perfect: consumers are not indifferent with respect to the currency to be used in transactions.
-  We consider an arbitrage-free world in which consumers derive utility both from consumption and from the benefits offered by the type of the currency: for example, preserving anonymity may increase the
-  utility of consumption, while a fraud would decrease it. Distinct stochastic processes governing benefits of the two currencies generate incomplete markets with crypto- and central bank currencies
-  operating under distinct pricing kernels. We characterise, both theoretically and empirically, the bitcoin kernel and its relationship with the pricing kernel in the centralized market.
-  Using the fundamental pricing relationship, we suggest a method to empirically evaluate the otherwise unobservable benefits, and show their contribution to the pricing kernel is well proxied
-  by the flow of coins over the cryptocurrency network. The model explains both the co-existence of digital and centralized currencies and the risk and return patterns in the cryptocurrency world.</p>"
+  title: "Monitoring network changes in social media"
+  description: "Authors: Cathy Yi-Hsuan Chen, Yarema Okhrin, Tengyao Wang<br/>
+  <p>Abstract:  </p>"
   subtype: Presentation
   speakers: [5]
   language: en
@@ -79,19 +73,37 @@
   language: en
 
 -
+  id: 009
+  title: "Testing structural breaks in large dynamic models"
+  description: "Authors: Z.Praskova<br/>
+  <p>Abstract:  TBA</p>"
+  subtype: Presentation
+  speakers: [9]
+  language: en
+
+-
   id: 010
-  title: "Deep Reinforcement Learning for Dynamic Decision Making in Economics"
-  description: "Authors: Jozef Barunik, Lukas Vacha<br/>
-  <p>Abstract:  TBA </p>"
+  title: "Value at Risk Approach to Producer’s Best Response in Electricity Market with Uncertain Demand "
+  description: "Authors: M.Branda<br/>
+  <p>Abstract:  TBA</p>"
   subtype: Presentation
   speakers: [10]
   language: en
 
+#-
+#  id: 010
+#  title: "Deep Reinforcement Learning for Dynamic Decision Making in Economics"
+#  description: "Authors: Jozef Barunik, Lukas Vacha<br/>
+#  <p>Abstract:  TBA </p>"
+#  subtype: Presentation
+#  speakers: [10]
+#  language: en
+
 -
   id: 011
-  title: "TBA"
-  description: "Authors: Frantisek Cech<br/>
-  <p>Abstract:  TBA </p>"
+  title: "Marine Fuel Hedging Under the Sulphur Cap Regulations"
+  description: "Authors: Frantisek Cech and Michal Zitek<br/>
+  <p>Abstract:  We argue that marine fuels consumers and producers can reduce the uncertainty of their portfolios under the environmental regulations aimed at air pollution re- duction. Our results show that uncertainty can be reduced up to 72%. We also identify Gasoil futures as the universal hedging instrument to manage uncertainty. </p>"
   subtype: Presentation
   speakers: [11]
   language: en
@@ -268,6 +280,24 @@ implied volatility functions.  </p>"
     <p>Abstract: We propose a procedure to model the time-varying relationship between a univariate response and a high-dimensional predictor set derived from textual data. In such settings, standard shrinkage approaches such as lasso can encounter computational and numerical issues. While text-specific regression approaches such as multinomial inverse regression and hurdle regression have been developed, these methods allow for neither time-varying parameters nor heteroskedasticity. Our proposed method first performs several random projections of the predictor matrix to a much lower-dimensional linear subspace. For each of these compressed predictor sets, a time-varying parameter state space model is estimated using fast Kalman filter recursions, allowing for heteroskedasticity in the response. These models' predictions are then averaged dynamically using Bayesian posterior model probabilities. The resulting procedure remains stable with hundreds of thousands of predictors and is trivially parallelisable. Intuitive variable importance measures can be computed naturally with little additional computational cost. </p>"
     subtype: Presentation
     speakers: [33]
+    language: en
+
+-
+    id: 034
+    title: "Multivariate crypto-portfolio optimization"
+    description: "Authors:  Karel Kozmik<br/>
+    <p>Abstract: TBA </p>"
+    subtype: Presentation
+    speakers: [34]
+    language: en
+
+-
+    id: 035
+    title: "State-space moedlling of claims reserves"
+    description: "Authors:  Petr Vejmelka<br/>
+    <p>Abstract: TBA </p>"
+    subtype: Presentation
+    speakers: [35]
     language: en
 
 ###### The rest
