@@ -10,9 +10,9 @@
 
 -
   id: 002
-  title: "Dynamic Density Forecasting Using Machine Learning"
+  title: "Probabilistic Forecasting with Machine Learning and Big Data"
   description: "Authors: Lubos Hanus and Jozef Barunik<br/>
-  <p>Abstract:  The use of machine learning techniques is proposed to describe and forecast the conditional probability distribution of asset returns. We redefine the problem of forecasting of conditional probabilities looking from a different perspective than traditional ordered binary choice models. Using deep learning methods, we offer a better description of asset returns distribution. The study on the most liquid U.S. stocks shows that predictive performance of machine learning methods is promising out-of-sample. We provide a comparison of machine learning methods to the unordered and order binary choice models used by the literature.</p>"
+  <p>Abstract:  e propose a distributional deep learning approach to probabilistic forecasting of economic time series. Being able to learn complex patterns from large amount of data, deep learning methods are useful for a decision making that depends on uncertainty of possibly large number of economic outcomes. Such predictions are also informative to decision makers facing asymmetric dependence of their loss on outcomes from possibly non-Gaussian and non-linear variables. We show the usefulness of the approach on the three distinct problems. First, we use deep learning to construct data-driven macroeconomic fan charts that reflect information contained by large number of variables. Second, we obtain uncertainty forecasts of irregular traffic data. Third, we illustrate gains in prediction of stock return distributions which are heavy tailed and suffer from low signal-to-noise ratio.</p>"
   subtype: Presentation
   speakers: [2]
   language: en
@@ -330,6 +330,11 @@ implied volatility functions.  </p>"
   service: true
   description: "http://www.restauracemincovna.cz"
 
+-
+  id: 104
+  title: "Optional Activities"
+  place: "Prague"
+  service: true
 -
   id: 901
   title: "Opening"
