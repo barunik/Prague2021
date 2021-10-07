@@ -168,7 +168,10 @@ implied volatility functions.  </p>"
   id: 022
   title: "Quantinar Data - Science - Education"
   description: "Authors: Julian Winkel<br/>
-  <p>Abstract:  </p>"
+  <p>Abstract: Living in the Information Age, the power of data and statistics has never been more prevalent.
+Academics, architects, medical doctors, journalists, lawyers, programmers and many other professionals nowadays require an accurate application of statistical methods.
+Instead many branches are subject to a crisis of integrity, which is shown in improper use of statistical models, p-hacking, HARKing or failure to replicate results.
+We propose the use of a peer-to-peer education network, Quantinar, to spread statistical knowledge embedded with code in the form of Quantlets. </p>"
   subtype: Presentation
   speakers: [22]
   language: en
