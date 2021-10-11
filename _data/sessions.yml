@@ -148,9 +148,9 @@ implied volatility functions.  </p>"
 
 -
   id: 020
-  title: "Generalised Random Forest"
+  title: "Uniform confidence bands for generalised random forests estimates"
   description: "Authors: Kainat Khowaja<br/>
-  <p>Abstract:  </p>"
+  <p>Abstract: In this paper, we show that the generalised random forest estimate, as function of x, is uniformly converging to true function. Athey et al (2020) show in their paper on Generalised Random Forests(GRF) that an estimate obtained from GRF at the point is asymptotically normal. Given a data set at hand, we find a critical value such for the uniform confidence bands using multiplier bootstrap, since it is well known that the standard approach via extreme value theory have a very slow asymptotic. We also demonstrate the construction of UCB on the same example given in the study of Athey et al (2020). </p>"
   subtype: Presentation
   speakers: [20]
   language: en
